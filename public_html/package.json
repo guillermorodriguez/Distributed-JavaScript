@@ -1,0 +1,17 @@
+{
+  "name": "web_server",
+  "version": "1.0.0",
+  "description": "Web Server Instance",
+  "main": "server.js",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "httpdispatcher": "^2.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Guillermo Rodriguez",
+  "license": "ISC"
+}
